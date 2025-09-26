@@ -1,0 +1,18 @@
+# Fichiers / dossiers d'IDE
+.idea/
+.vscode/
+*.iml
+
+# Fichiers système
+.DS_Store
+Thumbs.db
+
+# Logs globaux
+*.log
+
+# Dossier de build global
+dist/
+build/
+
+# Dépendances
+node_modules/
